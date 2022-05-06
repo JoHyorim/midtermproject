@@ -1,0 +1,17 @@
+body { background-color: lightyellow; }
+
+.h1 {
+    padding: 10;
+    text-align: center;
+}
+
+#frame {
+    width:1200px;
+    margin:30px auto;
+}
+
+#header{
+    width:30%;
+    height: 120px;
+    background-color: white;
+}
